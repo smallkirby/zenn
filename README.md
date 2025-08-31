@@ -18,3 +18,4 @@ npx zenn new:article
 - [みんなでZigのきしょいところ(褒め言葉)を眺めよう](articles/ffe707d71ead8d.md)
 - [Zig v0.13.0 リリース⚡](articles/d8130683546382.md)
 - [Zig v0.14.0 リリース](articles/c3a256f2e66829.md)
+- [Zig v0.15.2 リリース](articles/feb8ceefaddbd0.md)
