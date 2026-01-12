@@ -1,2 +1,9 @@
 node_modules
 .DS_Store
+
+# Obsidian
+app.json
+appearance.json
+core-plugins.json
+graph.json
+workspace.json

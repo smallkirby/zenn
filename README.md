@@ -13,6 +13,10 @@ npx zenn new:article
 - [Zig探訪 - エコシステム編](articles/10dbe02303a201.md)
 - [Zig探訪 - `comptime`編](articles/54882aee98e2c9.md)
 
+### Urthr
+
+- [自作OS on Raspberry Pi 5 - Part 1. 開発環境のセットアップ](articles/71f2e5a89a9913.md)
+
 ### Zigその他
 
 - [みんなでZigのきしょいところ(褒め言葉)を眺めよう](articles/ffe707d71ead8d.md)
