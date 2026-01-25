@@ -16,6 +16,7 @@ npx zenn new:article
 ### Urthr
 
 - [自作OS on Raspberry Pi 5 - Part 1. 開発環境のセットアップ](articles/71f2e5a89a9913.md)
+- [自作OS on Raspberry Pi 5 - Part 2. Ethernet MAC](articles/8ccc1aac2b102d.md)
 
 ### Zigその他
 
