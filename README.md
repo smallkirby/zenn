@@ -17,6 +17,8 @@ npx zenn new:article
 
 - [自作OS on Raspberry Pi 5 - Part 1. 開発環境のセットアップ](articles/71f2e5a89a9913.md)
 - [自作OS on Raspberry Pi 5 - Part 2. Ethernet MAC](articles/8ccc1aac2b102d.md)
+- [自作OS on Raspberry Pi 5 - Part 3. MSI-X](articles/6bfe4091e92064.md)
+- [自作OS on Raspberry Pi 5 - Part 4. サブコアの起動](articles/ea6ed480e51bd4.md)
 
 ### Zigその他
 
